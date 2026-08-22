@@ -2,7 +2,7 @@
 name: log-expenses
 type: feature-document
 author: sahay-shashank
-version: v1.0.0
+version: v1.0.1
 ---
 
 # Log Expenses
@@ -28,7 +28,7 @@ These following details are required for logging in the expense into Kubera:
 | **Date**        | Date allows users to query Kubera on a specific date.                                                |    DD/MM/YYYY    |   Date    | 10/02/2026 | Current Date |    Y     |
 | **Time**        | Time allows Kubera to display date-time sorted expenses according to the query.                      | HH:MM (24 Hours) |   Time    |   10:00    | Current Time |    Y     |
 
-> [!INFORMATION]
+> [!NOTE]
 >
 > - Currency is dependent on nationality by default. If currency provided in user settings, currency will take precendence.
 > - Time and Date are stored as a timestamp. This timestamp is internal stored as UTC but displayed according to local timezone. Configurable from user settings.
