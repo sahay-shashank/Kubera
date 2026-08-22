@@ -1,3 +1,9 @@
+---
+name: constitution
+type: agent-document
+author: sahay-shashank
+---
+
 # Kubera Constitution
 
 Project Kubera follows the give rules and regulations:
