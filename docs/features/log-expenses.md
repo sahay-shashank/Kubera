@@ -1,7 +1,6 @@
 ---
 name: log-expenses
 type: feature-document
-author: sahay-shashank
 version: v1.0.1
 ---
 
